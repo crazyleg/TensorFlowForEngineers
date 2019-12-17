@@ -1,6 +1,6 @@
 # Workshop: TensorFlow for software engineers.
 
-This are WIP materials for a workshop "TensorFlow for software engineers". It's main goal and purpose is to explain basics of neural networks in computer vision, using a top-bottom approach.
+These are WIP materials for a workshop "TensorFlow for software engineers". It's main goal and purpose is to explain basics of neural networks in computer vision, using a top-bottom approach.
 This means we will start with using high-level Keras API from TensorFlow 2.0, learn to train, freeze and export models in a simplest form. Then we will focus on building a simple C++ inference app, using Tensorflow Lite. 
 
 ## Starting points
